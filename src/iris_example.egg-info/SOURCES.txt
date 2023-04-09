@@ -1,0 +1,13 @@
+setup.py
+iris_example/__init__.py
+iris_example/__main__.py
+iris_example/nodes.py
+iris_example/pipeline.py
+iris_example/pipeline_registry.py
+iris_example/settings.py
+iris_example.egg-info/PKG-INFO
+iris_example.egg-info/SOURCES.txt
+iris_example.egg-info/dependency_links.txt
+iris_example.egg-info/entry_points.txt
+iris_example.egg-info/requires.txt
+iris_example.egg-info/top_level.txt

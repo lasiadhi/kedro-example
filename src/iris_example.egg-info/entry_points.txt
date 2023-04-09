@@ -1,0 +1,2 @@
+[console_scripts]
+iris-example = iris_example.__main__:main

@@ -1,0 +1,18 @@
+2023-04-06 00:20:28,430 - kedro.pipeline.node - ERROR - Node 'report_accuracy: report_accuracy([y_pred,y_test]) -> None' failed with error: 
+cannot convert the series to <class 'float'>
+2023-04-06 00:22:02,460 - kedro.pipeline.node - ERROR - Node 'report_accuracy: report_accuracy([y_pred,y_test]) -> None' failed with error: 
+cannot convert the series to <class 'float'>
+2023-04-06 00:34:11,506 - kedro.pipeline.node - ERROR - Node 'report_accuracy: report_accuracy([y_pred,y_test]) -> None' failed with error: 
+cannot convert the series to <class 'float'>
+2023-04-06 00:41:49,817 - kedro.pipeline.node - ERROR - Node 'report_accuracy: report_accuracy([y_pred,y_test]) -> None' failed with error: 
+cannot convert the series to <class 'float'>
+2023-04-06 00:42:16,853 - kedro.pipeline.node - ERROR - Node 'report_accuracy: report_accuracy([y_pred,y_test]) -> None' failed with error: 
+cannot convert the series to <class 'float'>
+2023-04-06 00:43:18,995 - kedro.pipeline.node - ERROR - Node 'report_accuracy: report_accuracy([y_pred,y_test]) -> None' failed with error: 
+cannot convert the series to <class 'float'>
+2023-04-06 00:44:01,463 - kedro.pipeline.node - ERROR - Node 'report_accuracy: report_accuracy([y_pred,y_test]) -> None' failed with error: 
+cannot convert the series to <class 'float'>
+2023-04-06 00:44:24,960 - kedro.pipeline.node - ERROR - Node 'report_accuracy: report_accuracy([y_pred,y_test]) -> None' failed with error: 
+cannot convert the series to <class 'float'>
+2023-04-06 00:45:00,311 - kedro.pipeline.node - ERROR - Node 'report_accuracy: report_accuracy([y_pred,y_test]) -> None' failed with error: 
+Can only compare identically-labeled Series objects
