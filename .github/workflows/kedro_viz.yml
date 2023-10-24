@@ -1,0 +1,16 @@
+name: kedro
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  kedro:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - name: Kedro
+      uses: WaylonWalker/kedro-action@2.0.0
+      with:
+        GITHUB_PAT: ${{ secrets.GITHUB_PAT }} # required for push to kedro-action branch
